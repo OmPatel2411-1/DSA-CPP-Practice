@@ -1,3 +1,4 @@
+````md
 # DSA CPP Practice
 
 This repository contains my C++ and DSA practice work.
@@ -35,18 +36,24 @@ DSA-CPP-Practice/
 ├── README.md
 ├── logs/
 │   ├── Day_01_Log.md
-│   └── Day_02_Log.md
+│   ├── Day_02_Log.md
+│   └── Day_03_Log.md
 ├── Day_01_CPP_Basics/
 │   ├── 1-1_hello_world.cpp
 │   ├── 1-2_print_details.cpp
 │   ├── 1-3_add_two_numbers.cpp
 │   └── ...
-└── Day_02_Arrays_Basics/
-    ├── 2-1_largest_element.cpp
-    ├── 2-2_second_largest_element.cpp
-    ├── 2-3_check_array_sorted.cpp
+├── Day_02_Arrays_Basics/
+│   ├── 2-1_largest_element.cpp
+│   ├── 2-2_second_largest_element.cpp
+│   ├── 2-3_check_array_sorted.cpp
+│   └── ...
+└── Day_03_Arrays_Practice/
+    ├── 3-1_right_rotate_by_one.cpp
+    ├── 3-2_left_rotate_by_k.cpp
+    ├── 3-3_right_rotate_by_k.cpp
     └── ...
-```
+````
 
 ## File Naming Format
 
@@ -64,16 +71,18 @@ Example:
 1-3_add_two_numbers.cpp
 2-1_largest_element.cpp
 2-2_second_largest_element.cpp
+3-1_right_rotate_by_one.cpp
 ```
 
 This naming format makes the repository easier to track, review, and maintain.
 
 ## Progress Summary
 
-| Day   | Main Focus                                              | Status    |
-| ----- | ------------------------------------------------------- | --------- |
-| Day 1 | C++ basics before DSA                                   | Completed |
-| Day 2 | Basic array DSA problems + percentage aptitude practice | Completed |
+| Day   | Main Focus                                                                 | Status    |
+| ----- | -------------------------------------------------------------------------- | --------- |
+| Day 1 | C++ basics before DSA                                                      | Completed |
+| Day 2 | Basic array DSA problems + percentage aptitude practice                    | Completed |
+| Day 3 | Array rotations, union/intersection, subarray basics + percentage revision | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -176,20 +185,57 @@ This naming format makes the repository easier to track, review, and maintain.
 * Missing number can be solved using expected sum and actual sum.
 * Maximum consecutive ones requires resetting the current count whenever a zero appears.
 
+## Day 3 — Array Practice
+
+### Concepts Practiced
+
+* Right rotate array by one
+* Left rotate array by k places
+* Right rotate array by k places
+* Union of two sorted arrays
+* Intersection of two sorted arrays
+* Number appearing once using XOR
+* Longest subarray with sum k for positive numbers
+* Frequency count using map
+
+### Day 3 Files
+
+```text
+3-1_right_rotate_by_one.cpp
+3-2_left_rotate_by_k.cpp
+3-3_right_rotate_by_k.cpp
+3-4_union_of_two_sorted_arrays.cpp
+3-5_intersection_of_two_sorted_arrays.cpp
+3-6_number_appearing_once.cpp
+3-7_longest_subarray_with_sum_k_positive.cpp
+3-8_count_frequency_of_elements.cpp
+```
+
+### Day 3 Key Learnings
+
+* Rotation problems require careful index handling.
+* `k = k % n` is important when rotation count is greater than array size.
+* Union and intersection problems need clear duplicate handling.
+* XOR can be used to find the number appearing once when every other number appears twice.
+* Subarray problems require clear understanding of start and end indexes.
+* Frequency counting becomes easier using `map`.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day   | Topic       | Questions Practiced | Status    |
-| ----- | ----------- | ------------------: | --------- |
-| Day 2 | Percentages |                  10 | Completed |
+| Day   | Topic                | Questions Practiced | Status    |
+| ----- | -------------------- | ------------------: | --------- |
+| Day 2 | Percentages          |                  10 | Completed |
+| Day 3 | Percentages Revision |                  10 | Completed |
 
-Detailed aptitude questions, answers, proof, and learnings are recorded in:
+Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
 ```text
 logs/Day_02_Log.md
+logs/Day_03_Log.md
 ```
 
 ## Daily Logs
@@ -215,6 +261,7 @@ Each log includes:
 ```text
 logs/Day_01_Log.md
 logs/Day_02_Log.md
+logs/Day_03_Log.md
 ```
 
 ## Proof of Work
@@ -244,9 +291,13 @@ The long-term goal is to become stronger in:
 
 * Day 1 completed: C++ basics and vector practice.
 * Day 2 completed: Basic array DSA problems and percentage aptitude practice.
+* Day 3 completed: Array rotations, union/intersection, subarray basics, frequency counting, and percentage revision.
 
 ## Note
 
 This repository is focused on practice, consistency, and proof of learning.
 
 The aim is not to write perfect code from Day 1. The aim is to improve every day through solving problems, debugging mistakes, reviewing logic, and maintaining proper documentation.
+
+```
+```
