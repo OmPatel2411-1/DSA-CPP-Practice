@@ -1,3 +1,5 @@
+Copy this complete updated `README.md`:
+
 ````md
 # DSA CPP Practice
 
@@ -37,7 +39,8 @@ DSA-CPP-Practice/
 ├── logs/
 │   ├── Day_01_Log.md
 │   ├── Day_02_Log.md
-│   └── Day_03_Log.md
+│   ├── Day_03_Log.md
+│   └── Day_04_Log.md
 ├── Day_01_CPP_Basics/
 │   ├── 1-1_hello_world.cpp
 │   ├── 1-2_print_details.cpp
@@ -48,10 +51,15 @@ DSA-CPP-Practice/
 │   ├── 2-2_second_largest_element.cpp
 │   ├── 2-3_check_array_sorted.cpp
 │   └── ...
-└── Day_03_Arrays_Practice/
-    ├── 3-1_right_rotate_by_one.cpp
-    ├── 3-2_left_rotate_by_k.cpp
-    ├── 3-3_right_rotate_by_k.cpp
+├── Day_03_Arrays_Practice/
+│   ├── 3-1_right_rotate_by_one.cpp
+│   ├── 3-2_left_rotate_by_k.cpp
+│   ├── 3-3_right_rotate_by_k.cpp
+│   └── ...
+└── Day_04_Arrays_Intermediate/
+    ├── 4-1_two_sum_bruteforce.cpp
+    ├── 4-2_two_sum_using_map.cpp
+    ├── 4-3_sort_0s_1s_2s.cpp
     └── ...
 ````
 
@@ -72,6 +80,7 @@ Example:
 2-1_largest_element.cpp
 2-2_second_largest_element.cpp
 3-1_right_rotate_by_one.cpp
+4-1_two_sum_bruteforce.cpp
 ```
 
 This naming format makes the repository easier to track, review, and maintain.
@@ -83,6 +92,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 1 | C++ basics before DSA                                                      | Completed |
 | Day 2 | Basic array DSA problems + percentage aptitude practice                    | Completed |
 | Day 3 | Array rotations, union/intersection, subarray basics + percentage revision | Completed |
+| Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude         | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -220,22 +230,61 @@ This naming format makes the repository easier to track, review, and maintain.
 * Subarray problems require clear understanding of start and end indexes.
 * Frequency counting becomes easier using `map`.
 
+## Day 4 — Intermediate Array Practice
+
+### Concepts Practiced
+
+* Two Sum using brute force
+* Two Sum using map
+* Sorting 0s, 1s, and 2s
+* Majority element using brute force
+* Maximum subarray sum using brute force
+* Kadane’s Algorithm
+* Best time to buy and sell stock
+* Rearranging positive and negative numbers using a basic approach
+
+### Day 4 Files
+
+```text
+4-1_two_sum_bruteforce.cpp
+4-2_two_sum_using_map.cpp
+4-3_sort_0s_1s_2s.cpp
+4-4_majority_element_bruteforce.cpp
+4-5_maximum_subarray_sum_bruteforce.cpp
+4-6_kadanes_algorithm.cpp
+4-7_best_time_to_buy_sell_stock.cpp
+4-8_rearrange_positive_negative_basic.cpp
+```
+
+### Day 4 Key Learnings
+
+* Two Sum can be solved using brute force first, then improved using map.
+* `target - current` is the key idea behind map-based Two Sum.
+* Counting approach can sort arrays containing only 0s, 1s, and 2s.
+* Majority element brute force checks the frequency of every element.
+* Maximum subarray sum can be understood first using brute force.
+* Kadane’s Algorithm improves maximum subarray sum using an optimized approach.
+* Stock buy/sell requires tracking the minimum price before calculating profit.
+* Basic rearrangement becomes easier by separating positive and negative values first.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day   | Topic                | Questions Practiced | Status    |
-| ----- | -------------------- | ------------------: | --------- |
-| Day 2 | Percentages          |                  10 | Completed |
-| Day 3 | Percentages Revision |                  10 | Completed |
+| Day   | Topic                  | Questions Practiced | Status    |
+| ----- | ---------------------- | ------------------: | --------- |
+| Day 2 | Percentages            |                  10 | Completed |
+| Day 3 | Percentages Revision   |                  10 | Completed |
+| Day 4 | Profit and Loss Basics |                  10 | Completed |
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
 ```text
 logs/Day_02_Log.md
 logs/Day_03_Log.md
+logs/Day_04_Log.md
 ```
 
 ## Daily Logs
@@ -262,6 +311,7 @@ Each log includes:
 logs/Day_01_Log.md
 logs/Day_02_Log.md
 logs/Day_03_Log.md
+logs/Day_04_Log.md
 ```
 
 ## Proof of Work
@@ -292,6 +342,7 @@ The long-term goal is to become stronger in:
 * Day 1 completed: C++ basics and vector practice.
 * Day 2 completed: Basic array DSA problems and percentage aptitude practice.
 * Day 3 completed: Array rotations, union/intersection, subarray basics, frequency counting, and percentage revision.
+* Day 4 completed: Two Sum, Kadane’s Algorithm, stock buy/sell, rearrangement basics, and profit-loss aptitude.
 
 ## Note
 
