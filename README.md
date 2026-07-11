@@ -93,6 +93,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 2 | Basic array DSA problems + percentage aptitude practice                    | Completed |
 | Day 3 | Array rotations, union/intersection, subarray basics + percentage revision | Completed |
 | Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude         | Completed |
+| Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision      | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -267,17 +268,52 @@ This naming format makes the repository easier to track, review, and maintain.
 * Stock buy/sell requires tracking the minimum price before calculating profit.
 * Basic rearrangement becomes easier by separating positive and negative values first.
 
+## Day 5 — Array Patterns Practice
+
+### Concepts Practiced
+
+* Leaders in an array
+* Longest consecutive sequence using sorting
+* Rearranging array by sign using a basic approach
+* Printing all subarrays
+* Maximum product subarray using brute force
+* Merging two sorted arrays using two pointers
+* Finding duplicate number using sorting
+* Finding missing and repeating number using frequency array
+
+### Day 5 Files
+
+```text
+5-1_leaders_in_array.cpp
+5-2_longest_consecutive_sequence_bruteforce.cpp
+5-3_rearrange_array_by_sign_basic.cpp
+5-4_print_all_subarrays.cpp
+5-5_maximum_product_subarray_bruteforce.cpp
+5-6_merge_two_sorted_arrays.cpp
+5-7_find_duplicate_number_basic.cpp
+5-8_find_missing_and_repeating_basic.cpp
+```
+### Day 5 Key Learnings
+* Leaders in an array require checking right-side elements.
+* Longest consecutive sequence becomes easier after sorting.
+* Printing all subarrays helps build a strong foundation for subarray-based problems.
+* Maximum product subarray requires careful handling of negative numbers.
+* Merging two sorted arrays can be solved using two pointers.
+* Duplicate number can be found using sorting and adjacent comparison.
+* Missing and repeating number can be solved using frequency counting.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day   | Topic                  | Questions Practiced | Status    |
-| ----- | ---------------------- | ------------------: | --------- |
-| Day 2 | Percentages            |                  10 | Completed |
-| Day 3 | Percentages Revision   |                  10 | Completed |
-| Day 4 | Profit and Loss Basics |                  10 | Completed |
+| Day   | Topic                    | Questions Practiced | Status    |
+| ----- | ------------------------ | ------------------: | --------- |
+| Day 2 | Percentages              |                  10 | Completed |
+| Day 3 | Percentages Revision     |                  10 | Completed |
+| Day 4 | Profit and Loss Basics   |                  10 | Completed |
+| Day 5 | Profit and Loss Revision |                  10 | Completed |
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
@@ -285,6 +321,7 @@ Detailed aptitude questions, answers, proof, and learnings are recorded in daily
 logs/Day_02_Log.md
 logs/Day_03_Log.md
 logs/Day_04_Log.md
+logs/Day_05_Log.md
 ```
 
 ## Daily Logs
@@ -312,6 +349,7 @@ logs/Day_01_Log.md
 logs/Day_02_Log.md
 logs/Day_03_Log.md
 logs/Day_04_Log.md
+logs/Day_05_Log.md
 ```
 
 ## Proof of Work
@@ -343,6 +381,7 @@ The long-term goal is to become stronger in:
 * Day 2 completed: Basic array DSA problems and percentage aptitude practice.
 * Day 3 completed: Array rotations, union/intersection, subarray basics, frequency counting, and percentage revision.
 * Day 4 completed: Two Sum, Kadane’s Algorithm, stock buy/sell, rearrangement basics, and profit-loss aptitude.
+* Day 5 completed: Array patterns, subarrays, merge sorted arrays, missing/repeating numbers, and profit-loss revision.
 
 ## Note
 
