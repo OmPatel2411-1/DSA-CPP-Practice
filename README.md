@@ -87,13 +87,14 @@ This naming format makes the repository easier to track, review, and maintain.
 
 ## Progress Summary
 
-| Day   | Main Focus                                                                 | Status    |
-| ----- | -------------------------------------------------------------------------- | --------- |
-| Day 1 | C++ basics before DSA                                                      | Completed |
-| Day 2 | Basic array DSA problems + percentage aptitude practice                    | Completed |
-| Day 3 | Array rotations, union/intersection, subarray basics + percentage revision | Completed |
-| Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude         | Completed |
-| Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision      | Completed |
+| Day   | Main Focus                                                                       | Status    |
+| ----- | -------------------------------------------------------------------------------- | --------- |
+| Day 1 | C++ basics before DSA                                                            | Completed |
+| Day 2 | Basic array DSA problems + percentage aptitude practice                          | Completed |
+| Day 3 | Array rotations, union/intersection, subarray basics + percentage revision       | Completed |
+| Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude               | Completed |
+| Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision            | Completed |
+| Day 6 | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -302,6 +303,42 @@ This naming format makes the repository easier to track, review, and maintain.
 * Duplicate number can be found using sorting and adjacent comparison.
 * Missing and repeating number can be solved using frequency counting.
 
+## Day 6 — Optimized Array Practice
+
+### Concepts Practiced
+
+* Leaders in an array using optimized right-to-left traversal
+* Longest consecutive sequence using set
+* Sorting 0s, 1s, and 2s using Dutch National Flag algorithm
+* Majority element using Boyer-Moore Voting Algorithm
+* Kadane’s Algorithm revision
+* Prefix sum array
+* Subarray sum equals k using brute force
+* Subarray sum equals k using prefix sum and map
+
+### Day 6 Files
+
+```text
+6-1_leaders_in_array_optimized.cpp
+6-2_longest_consecutive_sequence_using_set.cpp
+6-3_sort_0s_1s_2s_dutch_national_flag.cpp
+6-4_majority_element_boyer_moore.cpp
+6-5_kadanes_algorithm_revision.cpp
+6-6_prefix_sum_array.cpp
+6-7_subarray_sum_equals_k_bruteforce.cpp
+6-8_subarray_sum_equals_k_prefix_sum.cpp
+
+```
+## Day 6 Key Learnings
+* Leaders in an array can be optimized by traversing from right to left.
+* Longest consecutive sequence can be solved using set by starting only from the beginning of a sequence.
+* Dutch National Flag algorithm uses low, mid, and high pointers.
+* Boyer-Moore Voting Algorithm uses candidate and count to find the majority element.
+* Prefix sum is useful for solving subarray problems efficiently.
+* Subarray sum equals k can be optimized using prefix sum and map.
+
+```
+```
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -314,6 +351,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 3 | Percentages Revision     |                  10 | Completed |
 | Day 4 | Profit and Loss Basics   |                  10 | Completed |
 | Day 5 | Profit and Loss Revision |                  10 | Completed |
+| Day 6 | Simple Interest Basics   |                  10 | Completed |
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
@@ -322,6 +360,7 @@ logs/Day_02_Log.md
 logs/Day_03_Log.md
 logs/Day_04_Log.md
 logs/Day_05_Log.md
+logs/Day_06_Log.md
 ```
 
 ## Daily Logs
@@ -382,6 +421,7 @@ The long-term goal is to become stronger in:
 * Day 3 completed: Array rotations, union/intersection, subarray basics, frequency counting, and percentage revision.
 * Day 4 completed: Two Sum, Kadane’s Algorithm, stock buy/sell, rearrangement basics, and profit-loss aptitude.
 * Day 5 completed: Array patterns, subarrays, merge sorted arrays, missing/repeating numbers, and profit-loss revision.
+* Day 6 completed: Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum, and simple interest aptitude.
 
 ## Note
 
