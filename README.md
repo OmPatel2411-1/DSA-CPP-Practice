@@ -95,6 +95,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude               | Completed |
 | Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision            | Completed |
 | Day 6 | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
+| Day 7 | Array revision, mixed practice, weak-area check + simple interest revision       | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -337,8 +338,43 @@ This naming format makes the repository easier to track, review, and maintain.
 * Prefix sum is useful for solving subarray problems efficiently.
 * Subarray sum equals k can be optimized using prefix sum and map.
 
+
+## Day 7 — Array Revision and Weak-Area Check
+
+### Concepts Practiced
+
+* Two Sum revision using unordered_map
+* Kadane’s Algorithm revision
+* Dutch National Flag algorithm revision
+* Boyer-Moore Voting Algorithm revision
+* Prefix sum revision
+* Subarray sum equals k using prefix sum and map
+* Merge two sorted arrays using two pointers
+* Array weak-topic notes
+
+### Day 7 Files
+
+```text
+7-1_two_sum_revision.cpp
+7-2_kadanes_algorithm_revision.cpp
+7-3_dutch_national_flag_revision.cpp
+7-4_boyer_moore_revision.cpp
+7-5_prefix_sum_revision.cpp
+7-6_subarray_sum_equals_k_revision.cpp
+7-7_merge_two_sorted_arrays_revision.cpp
+7-8_array_weak_topics_notes.cpp
+
 ```
-```
+## Day 7 Key Learnings
+* Revision is necessary before moving to harder problems.
+* Two Sum using map depends on finding target - current.
+* Kadane’s Algorithm requires understanding when to reset the current sum.
+* Dutch National Flag requires careful pointer movement.
+* Boyer-Moore uses candidate and count to find the majority element.
+* Prefix sum is important for subarray-based problems.
+* Weak-topic notes help identify what needs more practice.
+
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -352,6 +388,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 4 | Profit and Loss Basics   |                  10 | Completed |
 | Day 5 | Profit and Loss Revision |                  10 | Completed |
 | Day 6 | Simple Interest Basics   |                  10 | Completed |
+| Day 7 | Simple Interest Revision |                  10 | Completed |
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
@@ -361,6 +398,7 @@ logs/Day_03_Log.md
 logs/Day_04_Log.md
 logs/Day_05_Log.md
 logs/Day_06_Log.md
+logs/Day_07_Log.md
 ```
 
 ## Daily Logs
@@ -422,6 +460,7 @@ The long-term goal is to become stronger in:
 * Day 4 completed: Two Sum, Kadane’s Algorithm, stock buy/sell, rearrangement basics, and profit-loss aptitude.
 * Day 5 completed: Array patterns, subarrays, merge sorted arrays, missing/repeating numbers, and profit-loss revision.
 * Day 6 completed: Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum, and simple interest aptitude.
+* Day 7 completed: Array revision, mixed practice, weak-area check, and simple interest revision.
 
 ## Note
 
