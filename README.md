@@ -96,6 +96,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision            | Completed |
 | Day 6 | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
 | Day 7 | Array revision, mixed practice, weak-area check + simple interest revision       | Completed |
+| Day 8 | Pre-LeetCode array practice, LeetCode-style local problems + mixed aptitude      | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -374,6 +375,41 @@ This naming format makes the repository easier to track, review, and maintain.
 * Prefix sum is important for subarray-based problems.
 * Weak-topic notes help identify what needs more practice.
 
+## Day 8 — Pre-LeetCode Array Practice
+
+### Concepts Practiced
+
+* Two Sum index version
+* Best time to buy and sell stock revision
+* Maximum subarray using Kadane’s Algorithm
+* Move zeroes in-place
+* Remove duplicates from sorted array
+* Single number using XOR
+* Contains duplicate using set
+* Plus One basic problem
+
+### Day 8 Files
+
+```text
+8-1_two_sum_index_version.cpp
+8-2_best_time_to_buy_sell_stock_revision.cpp
+8-3_maximum_subarray_revision.cpp
+8-4_move_zeroes_in_place.cpp
+8-5_remove_duplicates_sorted_array_revision.cpp
+8-6_single_number_revision.cpp
+8-7_contains_duplicate.cpp
+8-8_plus_one_basic.cpp
+
+```
+### Day 8 Key Learnings
+* LeetCode-style Two Sum requires returning indexes, not values.
+* Move Zeroes requires in-place modification.
+* Remove duplicates from sorted array uses a two-pointer style approach.
+* Single Number can be solved using XOR.
+* Contains Duplicate can be solved using set.
+* Plus One requires careful carry handling.
+* Solving LeetCode-style problems locally helps reduce confusion before platform submissions.
+
 
 ## Aptitude Practice
 
@@ -389,6 +425,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 5 | Profit and Loss Revision |                  10 | Completed |
 | Day 6 | Simple Interest Basics   |                  10 | Completed |
 | Day 7 | Simple Interest Revision |                  10 | Completed |
+| Day 8 | Mixed Revision           |                  10 | Completed |
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
@@ -399,6 +436,7 @@ logs/Day_04_Log.md
 logs/Day_05_Log.md
 logs/Day_06_Log.md
 logs/Day_07_Log.md
+logs/Day_08_Log.md
 ```
 
 ## Daily Logs
@@ -461,6 +499,7 @@ The long-term goal is to become stronger in:
 * Day 5 completed: Array patterns, subarrays, merge sorted arrays, missing/repeating numbers, and profit-loss revision.
 * Day 6 completed: Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum, and simple interest aptitude.
 * Day 7 completed: Array revision, mixed practice, weak-area check, and simple interest revision.
+* Day 8 completed: Pre-LeetCode array practice, LeetCode-style local problems, and mixed aptitude revision.
 
 ## Note
 
