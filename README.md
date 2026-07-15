@@ -97,6 +97,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 6 | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
 | Day 7 | Array revision, mixed practice, weak-area check + simple interest revision       | Completed |
 | Day 8 | Pre-LeetCode array practice, LeetCode-style local problems + mixed aptitude      | Completed |
+| Day 9 | First LeetCode day, Easy array problems + mixed aptitude                         | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -410,6 +411,37 @@ This naming format makes the repository easier to track, review, and maintain.
 * Plus One requires careful carry handling.
 * Solving LeetCode-style problems locally helps reduce confusion before platform submissions.
 
+## Day 9 — First LeetCode Day
+
+### Concepts Practiced
+
+* Two Sum on LeetCode
+* Best Time to Buy and Sell Stock on LeetCode
+* Maximum Subarray on LeetCode
+* Move Zeroes on LeetCode
+* Single Number on LeetCode
+* Saving accepted LeetCode solutions locally
+* Understanding LeetCode function signatures
+
+### Day 9 Files
+
+```text
+9-1_leetcode_two_sum.cpp
+9-2_leetcode_best_time_to_buy_sell_stock.cpp
+9-3_leetcode_maximum_subarray.cpp
+9-4_leetcode_move_zeroes.cpp
+9-5_leetcode_single_number.cpp
+
+```
+### Day 9 Key Learnings
+* LeetCode uses predefined function signatures.
+* main() is not required on LeetCode.
+* Two Sum asks for indexes, not values.
+* Move Zeroes requires in-place modification.
+* Kadane’s Algorithm is useful for Maximum Subarray.
+* XOR is useful for Single Number.
+* Accepted LeetCode solutions should be saved locally for GitHub proof.
+
 
 ## Aptitude Practice
 
@@ -426,10 +458,13 @@ Aptitude practice is tracked inside daily logs.
 | Day 6 | Simple Interest Basics   |                  10 | Completed |
 | Day 7 | Simple Interest Revision |                  10 | Completed |
 | Day 8 | Mixed Revision           |                  10 | Completed |
+| Day 9 | Mixed Revision           |                  10 | Completed |
+
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
 ```text
+logs/Day_01_Log.md
 logs/Day_02_Log.md
 logs/Day_03_Log.md
 logs/Day_04_Log.md
@@ -437,6 +472,7 @@ logs/Day_05_Log.md
 logs/Day_06_Log.md
 logs/Day_07_Log.md
 logs/Day_08_Log.md
+logs/Day_09_Log.md
 ```
 
 ## Daily Logs
@@ -500,6 +536,7 @@ The long-term goal is to become stronger in:
 * Day 6 completed: Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum, and simple interest aptitude.
 * Day 7 completed: Array revision, mixed practice, weak-area check, and simple interest revision.
 * Day 8 completed: Pre-LeetCode array practice, LeetCode-style local problems, and mixed aptitude revision.
+* Day 9 completed: First LeetCode day, 5 Easy array problems accepted, local solutions saved, and mixed aptitude revision completed.
 
 ## Note
 
