@@ -148,6 +148,7 @@
 ## Proof of Work
 
 **LeetCode:** 5 Easy array problems submitted and accepted.  
+**LeetCode Profile:** https://leetcode.com/u/OmPatel2411/
 **GitHub:** Accepted solutions saved under `Day_09_LeetCode_Arrays_Easy`.  
 **Screenshots:** LeetCode accepted submissions and GitHub folder screenshots added.  
 **Aptitude Proof:** Questions and answers recorded in this log; screenshot/photo added as proof.  
