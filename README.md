@@ -87,17 +87,18 @@ This naming format makes the repository easier to track, review, and maintain.
 
 ## Progress Summary
 
-| Day   | Main Focus                                                                       | Status    |
-| ----- | -------------------------------------------------------------------------------- | --------- |
-| Day 1 | C++ basics before DSA                                                            | Completed |
-| Day 2 | Basic array DSA problems + percentage aptitude practice                          | Completed |
-| Day 3 | Array rotations, union/intersection, subarray basics + percentage revision       | Completed |
-| Day 4 | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude               | Completed |
-| Day 5 | Array patterns, subarrays, merge sorted arrays + profit-loss revision            | Completed |
-| Day 6 | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
-| Day 7 | Array revision, mixed practice, weak-area check + simple interest revision       | Completed |
-| Day 8 | Pre-LeetCode array practice, LeetCode-style local problems + mixed aptitude      | Completed |
-| Day 9 | First LeetCode day, Easy array problems + mixed aptitude                         | Completed |
+| Day    | Main Focus                                                                       | Status    |
+| ------ | -------------------------------------------------------------------------------- | --------- |
+| Day 1  | C++ basics before DSA                                                            | Completed |
+| Day 2  | Basic array DSA problems + percentage aptitude practice                          | Completed |
+| Day 3  | Array rotations, union/intersection, subarray basics + percentage revision       | Completed |
+| Day 4  | Two Sum, Kadane’s Algorithm, stock buy/sell + profit-loss aptitude               | Completed |
+| Day 5  | Array patterns, subarrays, merge sorted arrays + profit-loss revision            | Completed |
+| Day 6  | Optimized arrays, Dutch National Flag, Boyer-Moore, prefix sum + simple interest | Completed |
+| Day 7  | Array revision, mixed practice, weak-area check + simple interest revision       | Completed |
+| Day 8  | Pre-LeetCode array practice, LeetCode-style local problems + mixed aptitude      | Completed |
+| Day 9  | First LeetCode day, Easy array problems + mixed aptitude                         | Completed |
+| Day 10 | LeetCode Easy arrays, in-place problems, README profile update + aptitude        | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -442,6 +443,36 @@ This naming format makes the repository easier to track, review, and maintain.
 * XOR is useful for Single Number.
 * Accepted LeetCode solutions should be saved locally for GitHub proof.
 
+## Day 10 — LeetCode Easy Arrays
+
+### Concepts Practiced
+
+* Remove Duplicates from Sorted Array on LeetCode
+* Contains Duplicate on LeetCode
+* Plus One on LeetCode
+* Merge Sorted Array on LeetCode
+* Majority Element on LeetCode
+* In-place array modification
+* LeetCode return types and function signatures
+* README coding profile update
+
+### Day 10 Files
+
+```text
+10-1_leetcode_remove_duplicates_from_sorted_array.cpp
+10-2_leetcode_contains_duplicate.cpp
+10-3_leetcode_plus_one.cpp
+10-4_leetcode_merge_sorted_array.cpp
+10-5_leetcode_majority_element.cpp
+```
+### Day 10 Key Learnings
+* Remove Duplicates returns the number of unique elements.
+* Contains Duplicate can be solved using unordered set.
+* Plus One requires carry handling.
+* Merge Sorted Array should be solved from the end.
+* Majority Element can be solved using Boyer-Moore Voting Algorithm.
+* In-place array problems require careful understanding of the expected output.
+
 
 ## Aptitude Practice
 
@@ -449,16 +480,17 @@ Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day   | Topic                    | Questions Practiced | Status    |
-| ----- | ------------------------ | ------------------: | --------- |
-| Day 2 | Percentages              |                  10 | Completed |
-| Day 3 | Percentages Revision     |                  10 | Completed |
-| Day 4 | Profit and Loss Basics   |                  10 | Completed |
-| Day 5 | Profit and Loss Revision |                  10 | Completed |
-| Day 6 | Simple Interest Basics   |                  10 | Completed |
-| Day 7 | Simple Interest Revision |                  10 | Completed |
-| Day 8 | Mixed Revision           |                  10 | Completed |
-| Day 9 | Mixed Revision           |                  10 | Completed |
+| Day    | Topic                    | Questions Practiced | Status    |
+| ------ | ------------------------ | ------------------: | --------- |
+| Day 2  | Percentages              |                  10 | Completed |
+| Day 3  | Percentages Revision     |                  10 | Completed |
+| Day 4  | Profit and Loss Basics   |                  10 | Completed |
+| Day 5  | Profit and Loss Revision |                  10 | Completed |
+| Day 6  | Simple Interest Basics   |                  10 | Completed |
+| Day 7  | Simple Interest Revision |                  10 | Completed |
+| Day 8  | Mixed Revision           |                  10 | Completed |
+| Day 9  | Mixed Revision           |                  10 | Completed |
+| Day 10 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -513,6 +545,8 @@ Proof is maintained through:
 * Screenshots
 * Aptitude practice proof
 * LinkedIn progress posts
+* GitHub: https://github.com/OmPatel2411-1
+* LeetCode: https://leetcode.com/u/OmPatel2411/
 
 ## Long-Term Goal
 
@@ -537,6 +571,7 @@ The long-term goal is to become stronger in:
 * Day 7 completed: Array revision, mixed practice, weak-area check, and simple interest revision.
 * Day 8 completed: Pre-LeetCode array practice, LeetCode-style local problems, and mixed aptitude revision.
 * Day 9 completed: First LeetCode day, 5 Easy array problems accepted, local solutions saved, and mixed aptitude revision completed.
+* Day 10 completed: LeetCode Easy array problems, in-place array practice, README coding profile update, and mixed aptitude revision.
 
 ## Note
 
