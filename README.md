@@ -99,6 +99,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 8  | Pre-LeetCode array practice, LeetCode-style local problems + mixed aptitude      | Completed |
 | Day 9  | First LeetCode day, Easy array problems + mixed aptitude                         | Completed |
 | Day 10 | LeetCode Easy arrays, in-place problems, README profile update + aptitude        | Completed |
+| Day 11 | LeetCode Easy arrays, condition handling, set logic + aptitude                   | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -473,6 +474,36 @@ This naming format makes the repository easier to track, review, and maintain.
 * Majority Element can be solved using Boyer-Moore Voting Algorithm.
 * In-place array problems require careful understanding of the expected output.
 
+## Day 11 — LeetCode Easy Arrays
+
+### Concepts Practiced
+
+* Valid Mountain Array on LeetCode
+* Squares of a Sorted Array on LeetCode
+* Find Pivot Index on LeetCode
+* Missing Number on LeetCode
+* Intersection of Two Arrays on LeetCode
+* Strict condition handling
+* Sum-based array logic
+* Set-based intersection logic
+
+### Day 11 Files
+
+```text
+11-1_leetcode_valid_mountain_array.cpp
+11-2_leetcode_squares_of_a_sorted_array.cpp
+11-3_leetcode_find_pivot_index.cpp
+11-4_leetcode_missing_number.cpp
+11-5_leetcode_intersection_of_two_arrays.cpp
+```
+## Day 11 Key Learnings
+* Valid Mountain Array requires strict increase and strict decrease.
+* Equal adjacent values are not allowed in a mountain array.
+* Squares of a Sorted Array can be solved using square and sort first.
+* Pivot Index depends on comparing left sum and right sum.
+* Missing Number can be solved using expected sum and actual sum.
+* Intersection of Two Arrays can be solved using unordered set.
+
 
 ## Aptitude Practice
 
@@ -491,6 +522,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 8  | Mixed Revision           |                  10 | Completed |
 | Day 9  | Mixed Revision           |                  10 | Completed |
 | Day 10 | Mixed Revision           |                  10 | Completed |
+| Day 11 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -505,6 +537,8 @@ logs/Day_06_Log.md
 logs/Day_07_Log.md
 logs/Day_08_Log.md
 logs/Day_09_Log.md
+logs/Day_10_Log.md
+logs/Day_11_Log.md
 ```
 
 ## Daily Logs
@@ -572,6 +606,7 @@ The long-term goal is to become stronger in:
 * Day 8 completed: Pre-LeetCode array practice, LeetCode-style local problems, and mixed aptitude revision.
 * Day 9 completed: First LeetCode day, 5 Easy array problems accepted, local solutions saved, and mixed aptitude revision completed.
 * Day 10 completed: LeetCode Easy array problems, in-place array practice, README coding profile update, and mixed aptitude revision.
+* Day 11 completed: LeetCode Easy array problems, condition handling, set logic, local solution proof, and mixed aptitude revision.
 
 ## Note
 
