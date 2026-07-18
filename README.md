@@ -100,6 +100,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 9  | First LeetCode day, Easy array problems + mixed aptitude                         | Completed |
 | Day 10 | LeetCode Easy arrays, in-place problems, README profile update + aptitude        | Completed |
 | Day 11 | LeetCode Easy arrays, condition handling, set logic + aptitude                   | Completed |
+| Day 12 | LeetCode Easy arrays, two-pointer, sorting, frequency logic + aptitude           | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -504,6 +505,38 @@ This naming format makes the repository easier to track, review, and maintain.
 * Missing Number can be solved using expected sum and actual sum.
 * Intersection of Two Arrays can be solved using unordered set.
 
+## Day 12 — LeetCode Easy Arrays
+
+### Concepts Practiced
+
+* Two Sum II - Input Array Is Sorted on LeetCode
+* Remove Element on LeetCode
+* Search Insert Position on LeetCode
+* Array Partition on LeetCode
+* Intersection of Two Arrays II on LeetCode
+* Two-pointer logic
+* In-place array modification
+* Sorting-based logic
+* Frequency counting using map
+
+### Day 12 Files
+
+```text
+12-1_leetcode_two_sum_ii_input_array_is_sorted.cpp
+12-2_leetcode_remove_element.cpp
+12-3_leetcode_search_insert_position.cpp
+12-4_leetcode_array_partition.cpp
+12-5_leetcode_intersection_of_two_arrays_ii.cpp
+```
+
+### Day 12 Key Learnings
+* Two Sum II uses two pointers because the input array is sorted.
+* Two Sum II returns 1-based indexes.
+* Remove Element modifies the array in-place and returns the new valid length.
+* Search Insert Position can be solved linearly first, but binary search should be learned later.
+* Array Partition becomes easier after sorting.
+* Intersection of Two Arrays II requires frequency counting because duplicates matter.
+
 
 ## Aptitude Practice
 
@@ -523,6 +556,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 9  | Mixed Revision           |                  10 | Completed |
 | Day 10 | Mixed Revision           |                  10 | Completed |
 | Day 11 | Mixed Revision           |                  10 | Completed |
+| Day 12 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -539,6 +573,7 @@ logs/Day_08_Log.md
 logs/Day_09_Log.md
 logs/Day_10_Log.md
 logs/Day_11_Log.md
+logs/Day_12_Log.md
 ```
 
 ## Daily Logs
@@ -607,6 +642,7 @@ The long-term goal is to become stronger in:
 * Day 9 completed: First LeetCode day, 5 Easy array problems accepted, local solutions saved, and mixed aptitude revision completed.
 * Day 10 completed: LeetCode Easy array problems, in-place array practice, README coding profile update, and mixed aptitude revision.
 * Day 11 completed: LeetCode Easy array problems, condition handling, set logic, local solution proof, and mixed aptitude revision.
+* Day 12 completed: LeetCode Easy array problems, two-pointer logic, sorting-based logic, frequency counting, local solution proof, and mixed aptitude revision.
 
 ## Note
 
