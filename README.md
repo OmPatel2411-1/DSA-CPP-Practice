@@ -101,6 +101,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 10 | LeetCode Easy arrays, in-place problems, README profile update + aptitude        | Completed |
 | Day 11 | LeetCode Easy arrays, condition handling, set logic + aptitude                   | Completed |
 | Day 12 | LeetCode Easy arrays, two-pointer, sorting, frequency logic + aptitude           | Completed |
+| Day 13 | LeetCode Easy problems, binary search basics, two-pointer revision + aptitude    | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -537,6 +538,36 @@ This naming format makes the repository easier to track, review, and maintain.
 * Array Partition becomes easier after sorting.
 * Intersection of Two Arrays II requires frequency counting because duplicates matter.
 
+## Day 13 — LeetCode Binary Search Basics
+
+### Concepts Practiced
+
+* Binary Search on LeetCode
+* First Bad Version on LeetCode
+* Reverse String on LeetCode
+* Guess Number Higher or Lower on LeetCode
+* Find Smallest Letter Greater Than Target on LeetCode
+* Binary search basics
+* Binary search on answer
+* Two-pointer string reversal
+
+### Day 13 Files
+
+```text
+13-1_leetcode_binary_search.cpp
+13-2_leetcode_first_bad_version.cpp
+13-3_leetcode_reverse_string.cpp
+13-4_leetcode_guess_number_higher_or_lower.cpp
+13-5_leetcode_find_smallest_letter_greater_than_target.cpp
+```
+### Day 13 Key Learnings
+* Binary search reduces the search space using low, high, and mid.
+* Safe mid calculation is mid = low + (high - low) / 2.
+* First Bad Version is binary search on answer.
+* Guess Number Higher or Lower also searches in an answer range.
+* Reverse String uses two pointers and modifies the array in-place.
+* Find Smallest Letter Greater Than Target requires wrap-around handling.
+
 
 ## Aptitude Practice
 
@@ -557,6 +588,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 10 | Mixed Revision           |                  10 | Completed |
 | Day 11 | Mixed Revision           |                  10 | Completed |
 | Day 12 | Mixed Revision           |                  10 | Completed |
+| Day 13 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -574,6 +606,7 @@ logs/Day_09_Log.md
 logs/Day_10_Log.md
 logs/Day_11_Log.md
 logs/Day_12_Log.md
+logs/Day_13_Log.md
 ```
 
 ## Daily Logs
@@ -643,6 +676,7 @@ The long-term goal is to become stronger in:
 * Day 10 completed: LeetCode Easy array problems, in-place array practice, README coding profile update, and mixed aptitude revision.
 * Day 11 completed: LeetCode Easy array problems, condition handling, set logic, local solution proof, and mixed aptitude revision.
 * Day 12 completed: LeetCode Easy array problems, two-pointer logic, sorting-based logic, frequency counting, local solution proof, and mixed aptitude revision.
+* Day 13 completed: LeetCode Easy problems, binary search basics, two-pointer revision, local solution proof, and mixed aptitude revision.
 
 ## Note
 
