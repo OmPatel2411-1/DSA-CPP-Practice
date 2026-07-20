@@ -102,6 +102,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 11 | LeetCode Easy arrays, condition handling, set logic + aptitude                   | Completed |
 | Day 12 | LeetCode Easy arrays, two-pointer, sorting, frequency logic + aptitude           | Completed |
 | Day 13 | LeetCode Easy problems, binary search basics, two-pointer revision + aptitude    | Completed |
+| Day 14 | LeetCode Easy problems, binary search revision, edge-case handling + aptitude    | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -568,6 +569,36 @@ This naming format makes the repository easier to track, review, and maintain.
 * Reverse String uses two pointers and modifies the array in-place.
 * Find Smallest Letter Greater Than Target requires wrap-around handling.
 
+## Day 14 — LeetCode Binary Search Revision
+
+### Concepts Practiced
+
+* Sqrt(x) on LeetCode
+* Valid Perfect Square on LeetCode
+* Count Negative Numbers in a Sorted Matrix on LeetCode
+* Find the Distance Value Between Two Arrays on LeetCode
+* Kth Missing Positive Number on LeetCode
+* Binary search on answer
+* Overflow-safe square calculation
+* Sorted-array and condition-based logic
+
+### Day 14 Files
+
+```text
+14-1_leetcode_sqrt_x.cpp
+14-2_leetcode_valid_perfect_square.cpp
+14-3_leetcode_count_negative_numbers_in_sorted_matrix.cpp
+14-4_leetcode_find_the_distance_value_between_two_arrays.cpp
+14-5_leetcode_kth_missing_positive_number.cpp
+```
+### Day 14 Key Learnings
+* Binary search can be used on answer ranges.
+* Sqrt(x) searches for the largest value whose square is less than or equal to x.
+* Valid Perfect Square requires exact square matching.
+* long long helps avoid overflow when calculating mid * mid.
+* Count Negative Numbers in a Sorted Matrix can be solved simply first, then optimized later.
+* Kth Missing Positive Number can be solved using simulation first, then binary search later.
+
 
 ## Aptitude Practice
 
@@ -589,6 +620,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 11 | Mixed Revision           |                  10 | Completed |
 | Day 12 | Mixed Revision           |                  10 | Completed |
 | Day 13 | Mixed Revision           |                  10 | Completed |
+| Day 14 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -607,6 +639,7 @@ logs/Day_10_Log.md
 logs/Day_11_Log.md
 logs/Day_12_Log.md
 logs/Day_13_Log.md
+logs/Day_14_Log.md
 ```
 
 ## Daily Logs
@@ -677,6 +710,7 @@ The long-term goal is to become stronger in:
 * Day 11 completed: LeetCode Easy array problems, condition handling, set logic, local solution proof, and mixed aptitude revision.
 * Day 12 completed: LeetCode Easy array problems, two-pointer logic, sorting-based logic, frequency counting, local solution proof, and mixed aptitude revision.
 * Day 13 completed: LeetCode Easy problems, binary search basics, two-pointer revision, local solution proof, and mixed aptitude revision.
+* Day 14 completed: LeetCode Easy problems, binary search revision, edge-case handling, local solution proof, and mixed aptitude revision.
 
 ## Note
 
