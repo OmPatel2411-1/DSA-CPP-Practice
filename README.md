@@ -103,6 +103,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 12 | LeetCode Easy arrays, two-pointer, sorting, frequency logic + aptitude           | Completed |
 | Day 13 | LeetCode Easy problems, binary search basics, two-pointer revision + aptitude    | Completed |
 | Day 14 | LeetCode Easy problems, binary search revision, edge-case handling + aptitude    | Completed |
+| Day 15 | LeetCode Easy strings, frequency logic, hash map mapping + aptitude              | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -599,6 +600,37 @@ This naming format makes the repository easier to track, review, and maintain.
 * Count Negative Numbers in a Sorted Matrix can be solved simply first, then optimized later.
 * Kth Missing Positive Number can be solved using simulation first, then binary search later.
 
+## Day 15 — LeetCode String Basics
+
+### Concepts Practiced
+
+* Valid Anagram on LeetCode
+* Ransom Note on LeetCode
+* First Unique Character in a String on LeetCode
+* Isomorphic Strings on LeetCode
+* Word Pattern on LeetCode
+* Character frequency counting
+* Hash map based string mapping
+* Two-way mapping logic
+* String splitting basics
+
+### Day 15 Files
+
+```text
+15-1_leetcode_valid_anagram.cpp
+15-2_leetcode_ransom_note.cpp
+15-3_leetcode_first_unique_character_in_a_string.cpp
+15-4_leetcode_isomorphic_strings.cpp
+15-5_leetcode_word_pattern.cpp
+```
+### Day 15 Key Learnings
+* Valid Anagram depends on matching character frequency.
+* Ransom Note uses magazine characters as available resources.
+* First Unique Character requires frequency counting and second-pass checking.
+* Isomorphic Strings requires two-way character mapping.
+* Word Pattern maps pattern characters to full words.
+* String problems require careful reading of frequency, mapping, and word conditions.
+
 
 ## Aptitude Practice
 
@@ -621,26 +653,12 @@ Aptitude practice is tracked inside daily logs.
 | Day 12 | Mixed Revision           |                  10 | Completed |
 | Day 13 | Mixed Revision           |                  10 | Completed |
 | Day 14 | Mixed Revision           |                  10 | Completed |
+| Day 15 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
 
-```text
-logs/Day_01_Log.md
-logs/Day_02_Log.md
-logs/Day_03_Log.md
-logs/Day_04_Log.md
-logs/Day_05_Log.md
-logs/Day_06_Log.md
-logs/Day_07_Log.md
-logs/Day_08_Log.md
-logs/Day_09_Log.md
-logs/Day_10_Log.md
-logs/Day_11_Log.md
-logs/Day_12_Log.md
-logs/Day_13_Log.md
-logs/Day_14_Log.md
-```
+
 
 ## Daily Logs
 
@@ -668,6 +686,16 @@ logs/Day_02_Log.md
 logs/Day_03_Log.md
 logs/Day_04_Log.md
 logs/Day_05_Log.md
+logs/Day_06_Log.md
+logs/Day_07_Log.md
+logs/Day_08_Log.md
+logs/Day_09_Log.md
+logs/Day_10_Log.md
+logs/Day_11_Log.md
+logs/Day_12_Log.md
+logs/Day_13_Log.md
+logs/Day_14_Log.md
+logs/Day_15_Log.md
 ```
 
 ## Proof of Work
@@ -711,6 +739,7 @@ The long-term goal is to become stronger in:
 * Day 12 completed: LeetCode Easy array problems, two-pointer logic, sorting-based logic, frequency counting, local solution proof, and mixed aptitude revision.
 * Day 13 completed: LeetCode Easy problems, binary search basics, two-pointer revision, local solution proof, and mixed aptitude revision.
 * Day 14 completed: LeetCode Easy problems, binary search revision, edge-case handling, local solution proof, and mixed aptitude revision.
+* Day 15 completed: LeetCode Easy string basics, frequency counting, hash map mapping, local solution proof, and mixed aptitude revision.
 
 ## Note
 
