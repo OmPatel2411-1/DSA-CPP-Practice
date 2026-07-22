@@ -104,6 +104,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 13 | LeetCode Easy problems, binary search basics, two-pointer revision + aptitude    | Completed |
 | Day 14 | LeetCode Easy problems, binary search revision, edge-case handling + aptitude    | Completed |
 | Day 15 | LeetCode Easy strings, frequency logic, hash map mapping + aptitude              | Completed |
+| Day 16 | LeetCode Easy strings, palindrome logic, two-pointer string problems + aptitude  | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -631,6 +632,37 @@ This naming format makes the repository easier to track, review, and maintain.
 * Word Pattern maps pattern characters to full words.
 * String problems require careful reading of frequency, mapping, and word conditions.
 
+## Day 16 — LeetCode String Revision
+
+### Concepts Practiced
+
+* Valid Palindrome on LeetCode
+* Valid Palindrome II on LeetCode
+* Is Subsequence on LeetCode
+* Reverse Vowels of a String on LeetCode
+* Length of Last Word on LeetCode
+* Palindrome checking
+* Two-pointer string logic
+* Subsequence checking
+* String edge-case handling
+
+### Day 16 Files
+
+```text
+16-1_leetcode_valid_palindrome.cpp
+16-2_leetcode_valid_palindrome_ii.cpp
+16-3_leetcode_is_subsequence.cpp
+16-4_leetcode_reverse_vowels_of_a_string.cpp
+16-5_leetcode_length_of_last_word.cpp
+```
+### Day 16 Key Learnings
+* Palindrome problems commonly use two-pointer logic.
+* Valid Palindrome requires ignoring spaces, punctuation, and case.
+* Valid Palindrome II requires checking both skip-left and skip-right options after one mismatch.
+* Is Subsequence uses two pointers across two strings.
+* Reverse Vowels swaps only vowels while keeping other characters in place.
+* Length of Last Word requires ignoring trailing spaces first.
+
 
 ## Aptitude Practice
 
@@ -654,6 +686,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 13 | Mixed Revision           |                  10 | Completed |
 | Day 14 | Mixed Revision           |                  10 | Completed |
 | Day 15 | Mixed Revision           |                  10 | Completed |
+| Day 16 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -696,6 +729,7 @@ logs/Day_12_Log.md
 logs/Day_13_Log.md
 logs/Day_14_Log.md
 logs/Day_15_Log.md
+logs/Day_16_Log.md
 ```
 
 ## Proof of Work
@@ -740,6 +774,7 @@ The long-term goal is to become stronger in:
 * Day 13 completed: LeetCode Easy problems, binary search basics, two-pointer revision, local solution proof, and mixed aptitude revision.
 * Day 14 completed: LeetCode Easy problems, binary search revision, edge-case handling, local solution proof, and mixed aptitude revision.
 * Day 15 completed: LeetCode Easy string basics, frequency counting, hash map mapping, local solution proof, and mixed aptitude revision.
+* Day 16 completed: LeetCode Easy string revision, palindrome logic, two-pointer string problems, local solution proof, and mixed aptitude revision.
 
 ## Note
 
