@@ -105,6 +105,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 14 | LeetCode Easy problems, binary search revision, edge-case handling + aptitude    | Completed |
 | Day 15 | LeetCode Easy strings, frequency logic, hash map mapping + aptitude              | Completed |
 | Day 16 | LeetCode Easy strings, palindrome logic, two-pointer string problems + aptitude  | Completed |
+| Day 17 | LeetCode Easy mixed revision, strings, hash set/map logic + aptitude             | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -663,6 +664,38 @@ This naming format makes the repository easier to track, review, and maintain.
 * Reverse Vowels swaps only vowels while keeping other characters in place.
 * Length of Last Word requires ignoring trailing spaces first.
 
+## Day 17 — LeetCode Mixed Revision
+
+### Concepts Practiced
+
+* Longest Common Prefix on LeetCode
+* Find the Index of the First Occurrence in a String on LeetCode
+* Unique Morse Code Words on LeetCode
+* Keyboard Row on LeetCode
+* Number of Good Pairs on LeetCode
+* String matching basics
+* Hash set logic
+* Hash map frequency counting
+* Mixed pattern recognition
+
+### Day 17 Files
+
+```text
+17-1_leetcode_longest_common_prefix.cpp
+17-2_leetcode_find_the_index_of_first_occurrence_in_a_string.cpp
+17-3_leetcode_unique_morse_code_words.cpp
+17-4_leetcode_keyboard_row.cpp
+17-5_leetcode_number_of_good_pairs.cpp
+```
+### Day 17 Key Learnings
+* Mixed revision improves pattern recognition.
+* Longest Common Prefix can be solved by reducing the prefix until all strings match.
+* Find the Index of the First Occurrence checks possible starting positions.
+* Unique Morse Code Words uses transformation and unordered set.
+* Keyboard Row uses character-to-row mapping.
+* Number of Good Pairs uses frequency counting with a hash map.
+* Avoiding repeated problems helps keep progress meaningful.
+
 
 ## Aptitude Practice
 
@@ -687,6 +720,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 14 | Mixed Revision           |                  10 | Completed |
 | Day 15 | Mixed Revision           |                  10 | Completed |
 | Day 16 | Mixed Revision           |                  10 | Completed |
+| Day 17 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -730,6 +764,7 @@ logs/Day_13_Log.md
 logs/Day_14_Log.md
 logs/Day_15_Log.md
 logs/Day_16_Log.md
+logs/Day_17_Log.md
 ```
 
 ## Proof of Work
@@ -775,6 +810,7 @@ The long-term goal is to become stronger in:
 * Day 14 completed: LeetCode Easy problems, binary search revision, edge-case handling, local solution proof, and mixed aptitude revision.
 * Day 15 completed: LeetCode Easy string basics, frequency counting, hash map mapping, local solution proof, and mixed aptitude revision.
 * Day 16 completed: LeetCode Easy string revision, palindrome logic, two-pointer string problems, local solution proof, and mixed aptitude revision.
+* Day 17 completed: LeetCode Easy mixed revision, string matching, hash set/map logic, local solution proof, and mixed aptitude revision.
 
 ## Note
 
