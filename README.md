@@ -106,6 +106,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 15 | LeetCode Easy strings, frequency logic, hash map mapping + aptitude              | Completed |
 | Day 16 | LeetCode Easy strings, palindrome logic, two-pointer string problems + aptitude  | Completed |
 | Day 17 | LeetCode Easy mixed revision, strings, hash set/map logic + aptitude             | Completed |
+| Day 18 | LeetCode Easy hash set, frequency counting, strings and arrays + aptitude        | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -696,6 +697,38 @@ This naming format makes the repository easier to track, review, and maintain.
 * Number of Good Pairs uses frequency counting with a hash map.
 * Avoiding repeated problems helps keep progress meaningful.
 
+## Day 18 — LeetCode Hash Set and Frequency Revision
+
+### Concepts Practiced
+
+* Jewels and Stones on LeetCode
+* Check if the Sentence Is Pangram on LeetCode
+* Count the Number of Consistent Strings on LeetCode
+* Unique Number of Occurrences on LeetCode
+* Sum of Unique Elements on LeetCode
+* Hash set based checking
+* Hash map frequency counting
+* String and array mixed revision
+* Pattern recognition
+
+### Day 18 Files
+
+```text
+18-1_leetcode_jewels_and_stones.cpp
+18-2_leetcode_check_if_sentence_is_pangram.cpp
+18-3_leetcode_count_the_number_of_consistent_strings.cpp
+18-4_leetcode_unique_number_of_occurrences.cpp
+18-5_leetcode_sum_of_unique_elements.cpp
+```
+### Day 18 Key Learnings
+* Hash sets are useful for fast existence checking.
+* Hash maps are useful for counting frequencies.
+* Jewels and Stones uses set lookup.
+* Pangram checking tracks all unique letters.
+* Consistent Strings checks whether every character belongs to the allowed set.
+* Unique Number of Occurrences checks whether frequency values are unique.
+* Sum of Unique Elements adds only values with frequency one.
+
 
 ## Aptitude Practice
 
@@ -721,6 +754,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 15 | Mixed Revision           |                  10 | Completed |
 | Day 16 | Mixed Revision           |                  10 | Completed |
 | Day 17 | Mixed Revision           |                  10 | Completed |
+| Day 18 | Mixed Revision           |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -765,6 +799,7 @@ logs/Day_14_Log.md
 logs/Day_15_Log.md
 logs/Day_16_Log.md
 logs/Day_17_Log.md
+logs/Day_18_Log.md
 ```
 
 ## Proof of Work
@@ -811,6 +846,7 @@ The long-term goal is to become stronger in:
 * Day 15 completed: LeetCode Easy string basics, frequency counting, hash map mapping, local solution proof, and mixed aptitude revision.
 * Day 16 completed: LeetCode Easy string revision, palindrome logic, two-pointer string problems, local solution proof, and mixed aptitude revision.
 * Day 17 completed: LeetCode Easy mixed revision, string matching, hash set/map logic, local solution proof, and mixed aptitude revision.
+* Day 18 completed: LeetCode Easy hash set and frequency counting revision, string/array mixed practice, local solution proof, and mixed aptitude revision.
 
 ## Note
 
