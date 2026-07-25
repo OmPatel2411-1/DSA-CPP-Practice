@@ -107,6 +107,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 16 | LeetCode Easy strings, palindrome logic, two-pointer string problems + aptitude  | Completed |
 | Day 17 | LeetCode Easy mixed revision, strings, hash set/map logic + aptitude             | Completed |
 | Day 18 | LeetCode Easy hash set, frequency counting, strings and arrays + aptitude        | Completed |
+| Day 19 | LeetCode strings, simulation, two pointers + aptitude                            | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -720,6 +721,7 @@ This naming format makes the repository easier to track, review, and maintain.
 18-4_leetcode_unique_number_of_occurrences.cpp
 18-5_leetcode_sum_of_unique_elements.cpp
 ```
+
 ### Day 18 Key Learnings
 * Hash sets are useful for fast existence checking.
 * Hash maps are useful for counting frequencies.
@@ -729,6 +731,34 @@ This naming format makes the repository easier to track, review, and maintain.
 * Unique Number of Occurrences checks whether frequency values are unique.
 * Sum of Unique Elements adds only values with frequency one.
 
+## Day 19 — LeetCode Strings and Two-Pointer Practice
+
+### Concepts Practiced
+
+* Merge Strings Alternately
+* Robot Return to Origin
+* Find Numbers with Even Number of Digits
+* Check If Two String Arrays are Equivalent
+* Maximum Number of Words Found in Sentences
+* String traversal
+* Simulation
+* Two-pointer basics
+* Array traversal
+
+### Day 19 Files
+
+```text
+19-1_leetcode_merge_strings_alternately.cpp
+19-2_leetcode_robot_return_to_origin.cpp
+19-3_leetcode_find_numbers_with_even_number_of_digits.cpp
+19-4_leetcode_check_if_two_string_arrays_are_equivalent.cpp
+19-5_leetcode_maximum_number_of_words_found_in_sentences.cpp
+```
+### Day 19 Key Learnings
+* Two pointers simplify working with multiple strings.
+* Simulation problems require careful updates.
+* Counting digits is a common array technique.
+* String traversal appears frequently in Easy problems.
 
 ## Aptitude Practice
 
@@ -736,25 +766,26 @@ Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day    | Topic                    | Questions Practiced | Status    |
-| ------ | ------------------------ | ------------------: | --------- |
-| Day 2  | Percentages              |                  10 | Completed |
-| Day 3  | Percentages Revision     |                  10 | Completed |
-| Day 4  | Profit and Loss Basics   |                  10 | Completed |
-| Day 5  | Profit and Loss Revision |                  10 | Completed |
-| Day 6  | Simple Interest Basics   |                  10 | Completed |
-| Day 7  | Simple Interest Revision |                  10 | Completed |
-| Day 8  | Mixed Revision           |                  10 | Completed |
-| Day 9  | Mixed Revision           |                  10 | Completed |
-| Day 10 | Mixed Revision           |                  10 | Completed |
-| Day 11 | Mixed Revision           |                  10 | Completed |
-| Day 12 | Mixed Revision           |                  10 | Completed |
-| Day 13 | Mixed Revision           |                  10 | Completed |
-| Day 14 | Mixed Revision           |                  10 | Completed |
-| Day 15 | Mixed Revision           |                  10 | Completed |
-| Day 16 | Mixed Revision           |                  10 | Completed |
-| Day 17 | Mixed Revision           |                  10 | Completed |
-| Day 18 | Mixed Revision           |                  10 | Completed |
+| Day    | Topic                              | Questions Practiced | Status    |
+| ------ | ---------------------------------- | ------------------: | --------- |
+| Day 2  | Percentages                        |                  10 | Completed |
+| Day 3  | Percentages Revision               |                  10 | Completed |
+| Day 4  | Profit and Loss Basics             |                  10 | Completed |
+| Day 5  | Profit and Loss Revision           |                  10 | Completed |
+| Day 6  | Simple Interest Basics             |                  10 | Completed |
+| Day 7  | Simple Interest Revision           |                  10 | Completed |
+| Day 8  | Mixed Revision                     |                  10 | Completed |
+| Day 9  | Mixed Revision                     |                  10 | Completed |
+| Day 10 | Mixed Revision                     |                  10 | Completed |
+| Day 11 | Mixed Revision                     |                  10 | Completed |
+| Day 12 | Mixed Revision                     |                  10 | Completed |
+| Day 13 | Mixed Revision                     |                  10 | Completed |
+| Day 14 | Mixed Revision                     |                  10 | Completed |
+| Day 15 | Mixed Revision                     |                  10 | Completed |
+| Day 16 | Mixed Revision                     |                  10 | Completed |
+| Day 17 | Mixed Revision                     |                  10 | Completed |
+| Day 18 | Mixed Revision                     |                  10 | Completed |
+| Day 19 | Profit & Loss + Simple Interest    |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -800,6 +831,7 @@ logs/Day_15_Log.md
 logs/Day_16_Log.md
 logs/Day_17_Log.md
 logs/Day_18_Log.md
+logs/Day_19_Log.md
 ```
 
 ## Proof of Work
@@ -847,6 +879,7 @@ The long-term goal is to become stronger in:
 * Day 16 completed: LeetCode Easy string revision, palindrome logic, two-pointer string problems, local solution proof, and mixed aptitude revision.
 * Day 17 completed: LeetCode Easy mixed revision, string matching, hash set/map logic, local solution proof, and mixed aptitude revision.
 * Day 18 completed: LeetCode Easy hash set and frequency counting revision, string/array mixed practice, local solution proof, and mixed aptitude revision.
+* Day 19 completed: LeetCode string practice, simulation, two-pointer basics, aptitude revision, and GitHub proof.
 
 ## Note
 
