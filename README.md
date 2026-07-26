@@ -108,6 +108,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 17 | LeetCode Easy mixed revision, strings, hash set/map logic + aptitude             | Completed |
 | Day 18 | LeetCode Easy hash set, frequency counting, strings and arrays + aptitude        | Completed |
 | Day 19 | LeetCode strings, simulation, two pointers + aptitude                            | Completed |
+| Day 20 | LeetCode pattern building, strings, hashing, simulation + aptitude               | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -760,6 +761,35 @@ This naming format makes the repository easier to track, review, and maintain.
 * Counting digits is a common array technique.
 * String traversal appears frequently in Easy problems.
 
+## Day 20 — LeetCode Pattern Building
+
+### Concepts Practiced
+
+* Sorting the Sentence
+* Truncate Sentence
+* Count Items Matching a Rule
+* Find the Difference
+* Destination City
+* String parsing
+* Hashing
+* Simulation
+* Pattern recognition
+
+### Day 20 Files
+
+```text
+20-1_leetcode_sorting_the_sentence.cpp
+20-2_leetcode_truncate_sentence.cpp
+20-3_leetcode_count_items_matching_a_rule.cpp
+20-4_leetcode_find_the_difference.cpp
+20-5_leetcode_destination_city.cpp
+```
+### Day 20 Key Learnings
+* String parsing is a common interview pattern.
+* Hash sets simplify lookup operations.
+* XOR can solve character difference problems efficiently.
+* Simulation requires careful attention to details.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -786,6 +816,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 17 | Mixed Revision                     |                  10 | Completed |
 | Day 18 | Mixed Revision                     |                  10 | Completed |
 | Day 19 | Profit & Loss + Simple Interest    |                  10 | Completed |
+| Day 20 | Ratio & Proportion                 |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -832,6 +863,7 @@ logs/Day_16_Log.md
 logs/Day_17_Log.md
 logs/Day_18_Log.md
 logs/Day_19_Log.md
+logs/Day_20_Log.md
 ```
 
 ## Proof of Work
@@ -880,6 +912,7 @@ The long-term goal is to become stronger in:
 * Day 17 completed: LeetCode Easy mixed revision, string matching, hash set/map logic, local solution proof, and mixed aptitude revision.
 * Day 18 completed: LeetCode Easy hash set and frequency counting revision, string/array mixed practice, local solution proof, and mixed aptitude revision.
 * Day 19 completed: LeetCode string practice, simulation, two-pointer basics, aptitude revision, and GitHub proof.
+* Day 20 completed: LeetCode pattern building, hashing, string processing, simulation, and aptitude revision.
 
 ## Note
 
