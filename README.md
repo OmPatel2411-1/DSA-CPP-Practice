@@ -110,6 +110,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 19 | LeetCode strings, simulation, two pointers + aptitude                            | Completed |
 | Day 20 | LeetCode pattern building, strings, hashing, simulation + aptitude               | Completed |
 | Day 21 | LeetCode hashing, prefix sums, string processing + aptitude                      | Completed |
+| Day 22 | LeetCode greedy, hashing, sorting, strings + aptitude                            | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -820,6 +821,36 @@ This naming format makes the repository easier to track, review, and maintain.
 * Frequency arrays are useful for comparing strings.
 * Stack-based thinking helps solve string manipulation problems.
 
+## Day 22 — LeetCode Greedy and Sorting Practice
+
+### Concepts Practiced
+
+* Maximum 69 Number
+* Check If N and Its Double Exist
+* Relative Sort Array
+* Third Maximum Number
+* Largest Odd Number in String
+* Greedy algorithms
+* Hash sets
+* Custom sorting
+* String traversal
+
+### Day 22 Files
+
+```text
+22-1_leetcode_maximum_69_number.cpp
+22-2_leetcode_check_if_n_and_its_double_exist.cpp
+22-3_leetcode_relative_sort_array.cpp
+22-4_leetcode_third_maximum_number.cpp
+22-5_leetcode_largest_odd_number_in_string.cpp
+```
+
+### Day 22 Key Learnings
+* Greedy algorithms make locally optimal choices.
+* Hash sets simplify existence checking.
+* Custom sorting is useful for ordering problems.
+* Tracking multiple maximum values requires careful duplicate handling.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -848,6 +879,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 19 | Profit & Loss + Simple Interest    |                  10 | Completed |
 | Day 20 | Ratio & Proportion                 |                  10 | Completed |
 | Day 21 | Average                            |                  10 | Completed |
+| Day 22 | Time & Work                        |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -896,6 +928,7 @@ logs/Day_18_Log.md
 logs/Day_19_Log.md
 logs/Day_20_Log.md
 logs/Day_21_Log.md
+logs/Day_22_Log.md
 ```
 
 ## Proof of Work
@@ -946,6 +979,7 @@ The long-term goal is to become stronger in:
 * Day 19 completed: LeetCode string practice, simulation, two-pointer basics, aptitude revision, and GitHub proof.
 * Day 20 completed: LeetCode pattern building, hashing, string processing, simulation, and aptitude revision.
 * Day 21 completed: LeetCode hashing, prefix sums, string processing, and aptitude revision.
+* Day 22 completed: LeetCode greedy, hashing, sorting, string practice, and aptitude revision.
 
 ## Note
 
