@@ -111,6 +111,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 20 | LeetCode pattern building, strings, hashing, simulation + aptitude               | Completed |
 | Day 21 | LeetCode hashing, prefix sums, string processing + aptitude                      | Completed |
 | Day 22 | LeetCode greedy, hashing, sorting, strings + aptitude                            | Completed |
+| Day 23 | LeetCode matrices, hashing, greedy, strings + aptitude                           | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -851,6 +852,35 @@ This naming format makes the repository easier to track, review, and maintain.
 * Custom sorting is useful for ordering problems.
 * Tracking multiple maximum values requires careful duplicate handling.
 
+## Day 23 — LeetCode Pattern Expansion
+
+### Concepts Practiced
+
+* Decrypt String from Alphabet to Integer Mapping
+* Special Positions in a Binary Matrix
+* Rank Transform of an Array
+* Minimum Value to Get Positive Step by Step Sum
+* Count Prefixes of a Given String
+* Matrix traversal
+* Hash maps
+* Prefix sums
+* Greedy thinking
+
+### Day 23 Files
+
+```text
+23-1_leetcode_decrypt_string_from_alphabet_to_integer_mapping.cpp
+23-2_leetcode_special_positions_in_a_binary_matrix.cpp
+23-3_leetcode_rank_transform_of_an_array.cpp
+23-4_leetcode_minimum_value_to_get_positive_step_by_step_sum.cpp
+23-5_leetcode_count_prefixes_of_a_given_string.cpp
+```
+### Day 23 Key Learnings
+* Matrix problems become easier with row/column preprocessing.
+* Rank transformation combines sorting with hashing.
+* Prefix sums are useful beyond array-sum problems.
+* Careful index handling is essential in string parsing.
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -880,6 +910,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 20 | Ratio & Proportion                 |                  10 | Completed |
 | Day 21 | Average                            |                  10 | Completed |
 | Day 22 | Time & Work                        |                  10 | Completed |
+| Day 23 | Time, Speed & Distance             |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -929,6 +960,7 @@ logs/Day_19_Log.md
 logs/Day_20_Log.md
 logs/Day_21_Log.md
 logs/Day_22_Log.md
+logs/Day_23_Log.md
 ```
 
 ## Proof of Work
@@ -980,6 +1012,7 @@ The long-term goal is to become stronger in:
 * Day 20 completed: LeetCode pattern building, hashing, string processing, simulation, and aptitude revision.
 * Day 21 completed: LeetCode hashing, prefix sums, string processing, and aptitude revision.
 * Day 22 completed: LeetCode greedy, hashing, sorting, string practice, and aptitude revision.
+* Day 23 completed: LeetCode matrix, hashing, greedy, string practice, and aptitude revision.
 
 ## Note
 
