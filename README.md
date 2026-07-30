@@ -112,6 +112,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 21 | LeetCode hashing, prefix sums, string processing + aptitude                      | Completed |
 | Day 22 | LeetCode greedy, hashing, sorting, strings + aptitude                            | Completed |
 | Day 23 | LeetCode matrices, hashing, greedy, strings + aptitude                           | Completed |
+| Day 24 | LeetCode hashing, matrix simulation, greedy, strings + aptitude                  | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -881,6 +882,38 @@ This naming format makes the repository easier to track, review, and maintain.
 * Prefix sums are useful beyond array-sum problems.
 * Careful index handling is essential in string parsing.
 
+## Day 24 — LeetCode Pattern Building III
+
+### Concepts Practiced
+
+* Find Words That Can Be Formed by Characters
+* Cells with Odd Values in a Matrix
+* Find the K-Beauty of a Number
+* Maximum Product of Two Elements in an Array
+* Count Asterisks
+* Frequency counting
+* Matrix simulation
+* Sliding window basics
+* Greedy thinking
+
+### Day 24 Files
+
+```text
+24-1_leetcode_find_words_that_can_be_formed_by_characters.cpp
+24-2_leetcode_cells_with_odd_values_in_a_matrix.cpp
+24-3_leetcode_find_the_k_beauty_of_a_number.cpp
+24-4_leetcode_maximum_product_of_two_elements_in_an_array.cpp
+24-5_leetcode_count_asterisks.cpp
+```
+
+### Day 24 Key Learnings
+
+* Frequency counting helps solve character-based problems efficiently.
+* Matrix simulation requires systematic updates.
+* Sliding window concepts begin appearing in Easy problems.
+* Greedy algorithms often rely on tracking optimal values.
+
+
 ## Aptitude Practice
 
 Aptitude practice is tracked inside daily logs.
@@ -911,6 +944,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 21 | Average                            |                  10 | Completed |
 | Day 22 | Time & Work                        |                  10 | Completed |
 | Day 23 | Time, Speed & Distance             |                  10 | Completed |
+| Day 24 | Profit & Loss                      |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -961,6 +995,7 @@ logs/Day_20_Log.md
 logs/Day_21_Log.md
 logs/Day_22_Log.md
 logs/Day_23_Log.md
+logs/Day_24_Log.md
 ```
 
 ## Proof of Work
@@ -1013,6 +1048,7 @@ The long-term goal is to become stronger in:
 * Day 21 completed: LeetCode hashing, prefix sums, string processing, and aptitude revision.
 * Day 22 completed: LeetCode greedy, hashing, sorting, string practice, and aptitude revision.
 * Day 23 completed: LeetCode matrix, hashing, greedy, string practice, and aptitude revision.
+* Day 24 completed: LeetCode hashing, matrix simulation, greedy techniques, string traversal, and aptitude revision.
 
 ## Note
 
