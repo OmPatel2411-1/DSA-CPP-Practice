@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int findClosestNumber(vector<int>& nums) {
+        int ans = nums[0];
+
+        for (int x : nums) {
+            if (abs(x) < abs(ans)) {
+                ans = x;
+            } else if (abs(x) == abs(ans) && x > ans) {
+                ans = x;   // Prefer the positive number if equally close
+            }
+        }
+
+        return ans;
+    }
+};

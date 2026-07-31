@@ -113,6 +113,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 22 | LeetCode greedy, hashing, sorting, strings + aptitude                            | Completed |
 | Day 23 | LeetCode matrices, hashing, greedy, strings + aptitude                           | Completed |
 | Day 24 | LeetCode hashing, matrix simulation, greedy, strings + aptitude                  | Completed |
+| Day 25 | LeetCode sorting, two pointers, arrays, strings + aptitude                       | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -913,6 +914,37 @@ This naming format makes the repository easier to track, review, and maintain.
 * Sliding window concepts begin appearing in Easy problems.
 * Greedy algorithms often rely on tracking optimal values.
 
+## Day 25 — LeetCode Pattern Mastery I
+
+### Concepts Practiced
+
+* Find Resultant Array After Removing Anagrams
+* Find Closest Number to Zero
+* Neither Minimum nor Maximum
+* Sort the People
+* Minimum Common Value
+* Sorting
+* Two pointers
+* Custom ordering
+* Array observations
+
+### Day 25 Files
+
+```text
+25-1_leetcode_find_resultant_array_after_removing_anagrams.cpp
+25-2_leetcode_find_closest_number_to_zero.cpp
+25-3_leetcode_neither_minimum_nor_maximum.cpp
+25-4_leetcode_sort_the_people.cpp
+25-5_leetcode_minimum_common_value.cpp
+```
+
+### Day 25 Key Learnings
+
+* Sorting often simplifies comparison problems.
+* Two-pointer techniques are efficient for sorted arrays.
+* Observation can reduce unnecessary complexity.
+* Custom sorting appears in many interview questions.
+
 
 ## Aptitude Practice
 
@@ -945,6 +977,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 22 | Time & Work                        |                  10 | Completed |
 | Day 23 | Time, Speed & Distance             |                  10 | Completed |
 | Day 24 | Profit & Loss                      |                  10 | Completed |
+| Day 25 | Simple Interest                    |                  10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -996,6 +1029,7 @@ logs/Day_21_Log.md
 logs/Day_22_Log.md
 logs/Day_23_Log.md
 logs/Day_24_Log.md
+logs/Day_25_Log.md
 ```
 
 ## Proof of Work
@@ -1049,6 +1083,7 @@ The long-term goal is to become stronger in:
 * Day 22 completed: LeetCode greedy, hashing, sorting, string practice, and aptitude revision.
 * Day 23 completed: LeetCode matrix, hashing, greedy, string practice, and aptitude revision.
 * Day 24 completed: LeetCode hashing, matrix simulation, greedy techniques, string traversal, and aptitude revision.
+* Day 25 completed: LeetCode sorting, two pointers, arrays, strings, and aptitude revision.
 
 ## Note
 
