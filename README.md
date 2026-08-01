@@ -114,6 +114,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 23 | LeetCode matrices, hashing, greedy, strings + aptitude                           | Completed |
 | Day 24 | LeetCode hashing, matrix simulation, greedy, strings + aptitude                  | Completed |
 | Day 25 | LeetCode sorting, two pointers, arrays, strings + aptitude                       | Completed |
+| Day 26 | LeetCode hashing, simulation + aptitude                                          | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -945,6 +946,29 @@ This naming format makes the repository easier to track, review, and maintain.
 * Observation can reduce unnecessary complexity.
 * Custom sorting appears in many interview questions.
 
+## Day 26 — LeetCode Pattern Mastery II
+
+### Concepts Practiced
+
+* First Letter to Appear Twice
+* Find the Array Concatenation Value
+* Hash sets
+* Two pointers
+* Simulation
+
+### Day 26 Files
+
+```text
+26-1_leetcode_first_letter_to_appear_twice.cpp
+26-2_leetcode_find_the_array_concatenation_value.cpp
+```
+
+### Day 26 Key Learnings
+
+* Hash sets efficiently detect repeated elements.
+* Two-pointer techniques simplify array traversal.
+* Simulation problems require attention to edge cases.
+
 
 ## Aptitude Practice
 
@@ -952,32 +976,33 @@ Aptitude practice is tracked inside daily logs.
 
 ### Topics Covered
 
-| Day    | Topic                              | Questions Practiced | Status    |
-| ------ | ---------------------------------- | ------------------: | --------- |
-| Day 2  | Percentages                        |                  10 | Completed |
-| Day 3  | Percentages Revision               |                  10 | Completed |
-| Day 4  | Profit and Loss Basics             |                  10 | Completed |
-| Day 5  | Profit and Loss Revision           |                  10 | Completed |
-| Day 6  | Simple Interest Basics             |                  10 | Completed |
-| Day 7  | Simple Interest Revision           |                  10 | Completed |
-| Day 8  | Mixed Revision                     |                  10 | Completed |
-| Day 9  | Mixed Revision                     |                  10 | Completed |
-| Day 10 | Mixed Revision                     |                  10 | Completed |
-| Day 11 | Mixed Revision                     |                  10 | Completed |
-| Day 12 | Mixed Revision                     |                  10 | Completed |
-| Day 13 | Mixed Revision                     |                  10 | Completed |
-| Day 14 | Mixed Revision                     |                  10 | Completed |
-| Day 15 | Mixed Revision                     |                  10 | Completed |
-| Day 16 | Mixed Revision                     |                  10 | Completed |
-| Day 17 | Mixed Revision                     |                  10 | Completed |
-| Day 18 | Mixed Revision                     |                  10 | Completed |
-| Day 19 | Profit & Loss + Simple Interest    |                  10 | Completed |
-| Day 20 | Ratio & Proportion                 |                  10 | Completed |
-| Day 21 | Average                            |                  10 | Completed |
-| Day 22 | Time & Work                        |                  10 | Completed |
-| Day 23 | Time, Speed & Distance             |                  10 | Completed |
-| Day 24 | Profit & Loss                      |                  10 | Completed |
-| Day 25 | Simple Interest                    |                  10 | Completed |
+| Day    | Topic                                | Questions Practiced  | Status    |
+| ------ | ------------------------------------ | -------------------  | --------- |
+| Day 2  | Percentages                          |                   10 | Completed |
+| Day 3  | Percentages Revision                 |                   10 | Completed |
+| Day 4  | Profit and Loss Basics               |                   10 | Completed |
+| Day 5  | Profit and Loss Revision             |                   10 | Completed |
+| Day 6  | Simple Interest Basics               |                   10 | Completed |
+| Day 7  | Simple Interest Revision             |                   10 | Completed |
+| Day 8  | Mixed Revision                       |                   10 | Completed |
+| Day 9  | Mixed Revision                       |                   10 | Completed |
+| Day 10 | Mixed Revision                       |                   10 | Completed |
+| Day 11 | Mixed Revision                       |                   10 | Completed |
+| Day 12 | Mixed Revision                       |                   10 | Completed |
+| Day 13 | Mixed Revision                       |                   10 | Completed |
+| Day 14 | Mixed Revision                       |                   10 | Completed |
+| Day 15 | Mixed Revision                       |                   10 | Completed |
+| Day 16 | Mixed Revision                       |                   10 | Completed |
+| Day 17 | Mixed Revision                       |                   10 | Completed |
+| Day 18 | Mixed Revision                       |                   10 | Completed |
+| Day 19 | Profit & Loss + Simple Interest      |                   10 | Completed |
+| Day 20 | Ratio & Proportion                   |                   10 | Completed |
+| Day 21 | Average                              |                   10 | Completed |
+| Day 22 | Time & Work                          |                   10 | Completed |
+| Day 23 | Time, Speed & Distance               |                   10 | Completed |
+| Day 24 | Profit & Loss                        |                   10 | Completed |
+| Day 25 | Simple Interest                      |                   10 | Completed |
+| Day 26 | Compound Interest                    |                   10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -1030,6 +1055,7 @@ logs/Day_22_Log.md
 logs/Day_23_Log.md
 logs/Day_24_Log.md
 logs/Day_25_Log.md
+logs/Day_26_Log.md
 ```
 
 ## Proof of Work
@@ -1084,6 +1110,7 @@ The long-term goal is to become stronger in:
 * Day 23 completed: LeetCode matrix, hashing, greedy, string practice, and aptitude revision.
 * Day 24 completed: LeetCode hashing, matrix simulation, greedy techniques, string traversal, and aptitude revision.
 * Day 25 completed: LeetCode sorting, two pointers, arrays, strings, and aptitude revision.
+* Day 26 completed: LeetCode hashing, simulation, and aptitude revision.
 
 ## Note
 
