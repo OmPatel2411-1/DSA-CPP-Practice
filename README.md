@@ -115,6 +115,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 24 | LeetCode hashing, matrix simulation, greedy, strings + aptitude                  | Completed |
 | Day 25 | LeetCode sorting, two pointers, arrays, strings + aptitude                       | Completed |
 | Day 26 | LeetCode hashing, simulation + aptitude                                          | Completed |
+| Day 27 | LeetCode math, hashing, string mapping + aptitude                                | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -969,6 +970,30 @@ This naming format makes the repository easier to track, review, and maintain.
 * Two-pointer techniques simplify array traversal.
 * Simulation problems require attention to edge cases.
 
+## Day 27 — Math and Hashing Practice
+
+### Concepts Practiced
+
+* Count the Digits That Divide a Number
+* Decode the Message
+* Digit extraction
+* Hash maps
+* Character mapping
+* String traversal
+
+### Day 27 Files
+
+```text
+27-1_leetcode_count_the_digits_that_divide_a_number.cpp
+27-2_leetcode_decode_the_message.cpp
+```
+
+### Day 27 Key Learnings
+
+* Modulo and integer division simplify digit-based problems.
+* Hash maps make character mapping efficient.
+* Careful implementation is often more important than algorithm complexity.
+
 
 ## Aptitude Practice
 
@@ -1003,6 +1028,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 24 | Profit & Loss                        |                   10 | Completed |
 | Day 25 | Simple Interest                      |                   10 | Completed |
 | Day 26 | Compound Interest                    |                   10 | Completed |
+| Day 27 | Percentage                           |                   10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -1056,6 +1082,7 @@ logs/Day_23_Log.md
 logs/Day_24_Log.md
 logs/Day_25_Log.md
 logs/Day_26_Log.md
+logs/Day_27_Log.md
 ```
 
 ## Proof of Work
@@ -1111,6 +1138,7 @@ The long-term goal is to become stronger in:
 * Day 24 completed: LeetCode hashing, matrix simulation, greedy techniques, string traversal, and aptitude revision.
 * Day 25 completed: LeetCode sorting, two pointers, arrays, strings, and aptitude revision.
 * Day 26 completed: LeetCode hashing, simulation, and aptitude revision.
+* Day 27 completed: LeetCode math, hashing, string mapping, and aptitude revision.
 
 ## Note
 
