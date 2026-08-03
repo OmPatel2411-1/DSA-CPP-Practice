@@ -116,6 +116,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 25 | LeetCode sorting, two pointers, arrays, strings + aptitude                       | Completed |
 | Day 26 | LeetCode hashing, simulation + aptitude                                          | Completed |
 | Day 27 | LeetCode math, hashing, string mapping + aptitude                                | Completed |
+| Day 28 | LeetCode arrays, two pointers, hashing + aptitude                                | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -994,6 +995,30 @@ This naming format makes the repository easier to track, review, and maintain.
 * Hash maps make character mapping efficient.
 * Careful implementation is often more important than algorithm complexity.
 
+## Day 28 — Arrays and Two Pointers Practice
+
+### Concepts Practiced
+
+* Largest Positive Integer That Exists With Its Negative
+* Count Pairs Whose Sum is Less than Target
+* Hash sets
+* Two pointers
+* Array traversal
+* Sorting
+
+### Day 28 Files
+
+```text
+28-1_leetcode_largest_positive_integer_that_exists_with_its_negative.cpp
+28-2_leetcode_count_pairs_whose_sum_is_less_than_target.cpp
+```
+
+### Day 28 Key Learnings
+
+* Hash sets provide fast membership checking.
+* Sorting can simplify pair-finding problems.
+* Two-pointer techniques reduce unnecessary iterations.
+
 
 ## Aptitude Practice
 
@@ -1029,6 +1054,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 25 | Simple Interest                      |                   10 | Completed |
 | Day 26 | Compound Interest                    |                   10 | Completed |
 | Day 27 | Percentage                           |                   10 | Completed |
+| Day 28 | Ratio & Proportion                   |                   10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -1083,6 +1109,7 @@ logs/Day_24_Log.md
 logs/Day_25_Log.md
 logs/Day_26_Log.md
 logs/Day_27_Log.md
+logs/Day_28_Log.md
 ```
 
 ## Proof of Work
@@ -1139,6 +1166,7 @@ The long-term goal is to become stronger in:
 * Day 25 completed: LeetCode sorting, two pointers, arrays, strings, and aptitude revision.
 * Day 26 completed: LeetCode hashing, simulation, and aptitude revision.
 * Day 27 completed: LeetCode math, hashing, string mapping, and aptitude revision.
+* Day 28 completed: LeetCode arrays, two pointers, hashing, and aptitude revision.
 
 ## Note
 
