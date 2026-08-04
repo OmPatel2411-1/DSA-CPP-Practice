@@ -117,6 +117,7 @@ This naming format makes the repository easier to track, review, and maintain.
 | Day 26 | LeetCode hashing, simulation + aptitude                                          | Completed |
 | Day 27 | LeetCode math, hashing, string mapping + aptitude                                | Completed |
 | Day 28 | LeetCode arrays, two pointers, hashing + aptitude                                | Completed |
+| Day 29 | LeetCode arrays, XOR, simulation + aptitude                                      | Completed |
 
 ## Day 1 — C++ Basics
 
@@ -1019,6 +1020,32 @@ This naming format makes the repository easier to track, review, and maintain.
 * Sorting can simplify pair-finding problems.
 * Two-pointer techniques reduce unnecessary iterations.
 
+## Day 29 — Arrays, XOR and Simulation
+
+### Concepts Practiced
+
+* Count Elements With Strictly Smaller and Greater Elements
+* Find the XOR of Numbers Which Appear Twice
+* Minimum Operations to Exceed Threshold Value I
+* Arrays
+* XOR
+* Bit Manipulation
+* Simulation
+
+### Day 29 Files
+
+```text
+29-1_leetcode_count_elements_with_strictly_smaller_and_greater_elements.cpp
+29-2_leetcode_find_the_xor_of_numbers_which_appear_twice.cpp
+29-3_leetcode_minimum_operations_to_exceed_threshold_value_i.cpp
+```
+
+### Day 29 Key Learnings
+
+* Observation often leads to simpler array solutions.
+* XOR is a powerful tool for frequency-based problems.
+* Simulation problems reward careful implementation.
+
 
 ## Aptitude Practice
 
@@ -1055,6 +1082,7 @@ Aptitude practice is tracked inside daily logs.
 | Day 26 | Compound Interest                    |                   10 | Completed |
 | Day 27 | Percentage                           |                   10 | Completed |
 | Day 28 | Ratio & Proportion                   |                   10 | Completed |
+| Day 29 | Average                              |                   10 | Completed |
 
 
 Detailed aptitude questions, answers, proof, and learnings are recorded in daily logs.
@@ -1110,6 +1138,7 @@ logs/Day_25_Log.md
 logs/Day_26_Log.md
 logs/Day_27_Log.md
 logs/Day_28_Log.md
+logs/Day_29_Log.md
 ```
 
 ## Proof of Work
