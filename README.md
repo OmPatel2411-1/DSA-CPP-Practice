@@ -416,24 +416,6 @@ This repository covers a wide range of **C++ programming concepts**, **Data Stru
 
 > **The goal is not to memorize solutions, but to understand patterns that can be applied to solve new problems efficiently.**
 
----
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmPatel2411-1&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmPatel2411-1&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=OmPatel2411-1&theme=github-dark-blue&hide_border=true&border_radius=12"/>
-
-</div>
 
 ---
 
